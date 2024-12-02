@@ -2,4 +2,5 @@
 manzanas
 uvas
 bananas
-anana
+
+pan
