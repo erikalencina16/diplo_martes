@@ -1,0 +1,72 @@
+h1 {
+    color: #6829a3;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightpink;
+    text-align: center;
+}
+
+h2 {
+    color: royalblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h3 {
+    color: royalblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ul {
+    color: #095858;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+ol {
+    color: #095858;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h4 {
+    color: #095858;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkseagreen;
+    text-align: center;
+    font-size: 30px;
+
+}
+p{
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.destacado{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: bold;
+}
+#rosa{
+    background-color: pink;
+    width: 500px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid lightseagreen;
+    margin-left: 100px;
+ 
+
+
+
+
+}
+#celeste{
+    background-color: lightskyblue;
+    width: 500px;
+    height: 100px;
+    padding: 20px;
+    border: 5px solid palevioletred;
+    margin-left: 100px;
+ 
+
+}
